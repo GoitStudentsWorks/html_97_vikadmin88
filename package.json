@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/project-CodeCrafters01/",
+    "build": "vite build --base=/html_97_vikadmin88/",
     "preview": "vite preview"
   },
   "devDependencies": {
